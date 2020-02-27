@@ -1,9 +1,9 @@
 ## Cosas que tenes que hacer:
-1 - Clonar el proyecto a tu maquina
-2 - Instalar: Node (minimo version 10) y yarn (la ultima version y tal vez al instalarlo tambien se instale node, depende de donde lo saques).
-3 - Una vez clonado el proyecto abrir la consola y parado en el directorio del proyecto correr:
-  - yarn install
-  - yarn start
+1 - Clonar el proyecto a tu maquina<br />
+2 - Instalar: Node (minimo version 10) y yarn (la ultima version y tal vez al instalarlo tambien se instale node, depende de donde lo saques).<br />
+3 - Una vez clonado el proyecto abrir la consola y parado en el directorio del proyecto correr:<br />
+  - yarn install<br />
+  - yarn start<br />
 
 ## Vas a necesitar tener instalado algun IDE para programar web
 Yo uso Webstorme con la licencia de estudiante, pero tenes otros que sirven (sublime, visual studio creo tambien).
