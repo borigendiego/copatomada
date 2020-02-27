@@ -1,3 +1,13 @@
+## Cosas que tenes que hacer:
+1 - Clonar el proyecto a tu maquina
+2 - Instalar: Node (minimo version 10) y yarn (la ultima version y tal vez al instalarlo tambien se instale node, depende de donde lo saques).
+3 - Una vez clonado el proyecto abrir la consola y parado en el directorio del proyecto correr:
+  - yarn install
+  - yarn start
+
+## Vas a necesitar tener instalado algun IDE para programar web
+Yo uso Webstorme con la licencia de estudiante, pero tenes otros que sirven (sublime, visual studio creo tambien).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
